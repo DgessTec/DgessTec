@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @DgessTec
 - 🌱 I’m currently learning portugol
 
 
